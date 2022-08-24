@@ -1,4 +1,4 @@
-# Muti-Omics_TRS
+# Muti_Omics_TRS
 
 Contact:
 
