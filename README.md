@@ -6,7 +6,7 @@ dlmu_lab319@163.com
 
 Citation:
 
-Xiaoyu Hou, Baoshan Ma*, Heng Dong, Haobo Liu, Jianqiao Pan, Di Li, Shuxin Liu,* , Fengju Song*. The Construction of Transcriptional Risk Scores for Breast Cancer Based on LightGBM and Multiple Omics Data.(under review)
+Xiaoyu Hou, Baoshan Ma*, Heng Dong, Haobo Liu, Jianqiao Pan, Di Li, Shuxin Liu*, Fengju Song*. The Construction of Transcriptional Risk Scores for Breast Cancer Based on LightGBM and Multiple Omics Data.(under review)
 
 This repository contains python implementation of the algorithms proposed in "The Construction of Transcriptional Risk Scores for Kidney Renal Clear Cell Carcinoma Basing on XGBoost and Multiple Omics Data".
 
