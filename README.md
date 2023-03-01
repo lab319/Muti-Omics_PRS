@@ -5,8 +5,8 @@ Contact:
 dlmu_lab319@163.com
 
 Citation:
-
-Xiaoyu Hou, Baoshan Ma*, Heng Dong, Haobo Liu, Jianqiao Pan, Di Li, Shuxin Liu*, Fengju Song*. The Transcriptional Risk Scores for Kidney Renal Clear Cell Carcinoma Using XGBoost and Multiple Omics Data.(under review)
+Xiaoyu Hou, Baoshan Ma*, Ming Liu, Yuxuan Zhao, Jianqiao Pan, Pengcheng Wang, Di Li, Shuxin Liu*, Fengju Song*.
+The Transcriptional Risk Scores for Kidney Renal Clear Cell Carcinoma Using XGBoost and Multiple Omics Data.(under review)
 
 This repository contains python implementation of the algorithms proposed in "The Transcriptional Risk Scores for Kidney Renal Clear Cell Carcinoma Using XGBoost and Multiple Omics Data".
 
